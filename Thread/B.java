@@ -14,6 +14,7 @@ class A extends Thread {
     }
 }
 
+
 public class B {
     public static void main(String[] args) throws InterruptedException {
         A t = new A();

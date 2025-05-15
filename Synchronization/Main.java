@@ -89,7 +89,7 @@
 
 class msg{
 
-    ;;;;//100 lines of code
+    //100 lines of code
 
     //method level synchronization
     // public synchronized void show(String name){
